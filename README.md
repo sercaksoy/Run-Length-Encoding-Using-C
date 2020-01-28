@@ -5,3 +5,4 @@
 </br><p>A program which is encoding(run-length) integer matrices using C programming language. I did it the way it should meet professors wishes at <i>BLM1011_Assignment.pdf</i>. </p></br>
 " <i>screenshots</i> " folder contains different screenshots from the program.</br>
 " <i>BLM1011_Assignment.pdf</i> " is professors requests. If you came a way to do better you can always e-mail me !
+</br> <u>sercaksoy@gmail.com</u>
