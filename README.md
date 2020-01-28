@@ -3,6 +3,6 @@
 </br>You can read more about Run-length encoding (RLE) from following reference : https://en.wikipedia.org/wiki/Run-length_encoding
 
 </br><p>A program which is encoding(run-length) integer matrices using C programming language. I did it the way it should meet professors wishes at <i>BLM1011_Assignment.pdf</i>. </p></br>
-" <i>screenshots</i> " folder contains different screenshots from the program.</br>
+" <i>screenshots</i> " folder contains different screenshots from the program.</br></br>You can from the screenshots thw worst case ratio is always -1 and best case depending matrix given is changeable. And while matrix size increases ratio increases as well. At the infite we are expecting the ratio to be 1.</br>
 " <i>BLM1011_Assignment.pdf</i> " is professors requests. If you came a way to do better you can always e-mail me !
 </br> <u>sercaksoy@gmail.com</u>
